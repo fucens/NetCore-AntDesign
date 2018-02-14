@@ -1,0 +1,14 @@
+E:\Fucens.Example\Server\Server\bin\Debug\netcoreapp2.0\Server.deps.json
+E:\Fucens.Example\Server\Server\bin\Debug\netcoreapp2.0\Server.runtimeconfig.json
+E:\Fucens.Example\Server\Server\bin\Debug\netcoreapp2.0\Server.runtimeconfig.dev.json
+E:\Fucens.Example\Server\Server\bin\Debug\netcoreapp2.0\Server.dll
+E:\Fucens.Example\Server\Server\bin\Debug\netcoreapp2.0\Server.pdb
+E:\Fucens.Example\Server\Server\bin\Debug\netcoreapp2.0\Domain.dll
+E:\Fucens.Example\Server\Server\bin\Debug\netcoreapp2.0\Domain.pdb
+E:\Fucens.Example\Server\Server\obj\Debug\netcoreapp2.0\Server.csprojResolveAssemblyReference.cache
+E:\Fucens.Example\Server\Server\obj\Debug\netcoreapp2.0\Server.csproj.CoreCompileInputs.cache
+E:\Fucens.Example\Server\Server\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\Fucens.Example\Server\Server\obj\Debug\netcoreapp2.0\Server.AssemblyInfoInputs.cache
+E:\Fucens.Example\Server\Server\obj\Debug\netcoreapp2.0\Server.AssemblyInfo.cs
+E:\Fucens.Example\Server\Server\obj\Debug\netcoreapp2.0\Server.dll
+E:\Fucens.Example\Server\Server\obj\Debug\netcoreapp2.0\Server.pdb
